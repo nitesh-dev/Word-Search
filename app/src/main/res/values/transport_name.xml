@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Transports">
+
+        <item>maglev</item>
+        <item>sailboat</item>
+        <item>motorcar</item>
+        <item>railway</item>
+        <item>ship</item>
+
+        <item>sedan</item>
+        <item>truck</item>
+        <item>sledge</item>
+        <item>van</item>
+        <item>surrey</item>
+
+        <item>stagecoach</item>
+        <item>boat</item>
+        <item>bike</item>
+        <item>oar</item>
+        <item>wagon</item>
+
+        <item>plane</item>
+        <item>aircraft</item>
+        <item>warship</item>
+        <item>railroad</item>
+        <item>galleon</item>
+
+        <item>tanker</item>
+        <item>roadster</item>
+        <item>ferry</item>
+        <item>jet</item>
+        <item>ketch</item>
+
+        <item>crane</item>
+        <item>dinghy</item>
+        <item>dray</item>
+        <item>rowboat</item>
+        <item>moped</item>
+
+        <item>coupe</item>
+        <item>punt</item>
+        <item>glider</item>
+        <item>ambulance</item>
+        <item>bicycle</item>
+
+        <item>bus</item>
+        <item>taxi</item>
+        <item>mixer</item>
+        <item>helicopter</item>
+        <item>parachute</item>
+
+    </string-array>
+</resources>

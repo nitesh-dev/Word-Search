@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Plants">
+
+        <item>daisy</item>
+        <item>amaranths</item>
+        <item>magnolia</item>
+        <item>moss</item>
+        <item>algae</item>
+
+        <item>lily</item>
+        <item>fern</item>
+        <item>sago</item>
+        <item>ginkgo</item>
+        <item>daffodil</item>
+
+        <item>conifer</item>
+        <item>shrub</item>
+        <item>cactus</item>
+        <item>fir</item>
+        <item>spruce</item>
+
+        <item>aloe</item>
+        <item>basil</item>
+        <item>sage</item>
+        <item>dill</item>
+        <item>cilantro</item>
+
+        <item>mint</item>
+        <item>parsley</item>
+        <item>thyme</item>
+        <item>oregano</item>
+        <item>lavender</item>
+
+        <item>juniper</item>
+        <item>bay</item>
+        <item>parsley</item>
+        <item>rosemary</item>
+        <item>tarragon</item>
+
+        <item>chives</item>
+        <item>peppermint</item>
+        <item>lemon</item>
+        <item>nettle</item>
+        <item>ginseng</item>
+
+        <item>anise</item>
+        <item>lotus</item>
+        <item>peony</item>
+        <item>poppy</item>
+        <item>tulip</item>
+
+    </string-array>
+</resources>

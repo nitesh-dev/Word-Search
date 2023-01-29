@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Sports">
+
+        <item>boxing</item>
+        <item>curling</item>
+        <item>archery</item>
+        <item>bowling</item>
+        <item>badminton</item>
+
+        <item>volleyball</item>
+        <item>basketball</item>
+        <item>baseball</item>
+        <item>tennis</item>
+        <item>hockey</item>
+
+        <item>yoga</item>
+        <item>gymnastics</item>
+        <item>golf</item>
+        <item>soccer</item>
+        <item>cycling</item>
+
+        <item>cricket</item>
+        <item>shooting</item>
+        <item>skateboarding</item>
+        <item>surfing</item>
+        <item>karate</item>
+
+        <item>weightlifting</item>
+        <item>fishing</item>
+<!--        <item>judo</item>-->
+        <item>climbing</item>
+        <item>swimming</item>
+
+        <item>billiards</item>
+        <item>rugby</item>
+        <item>athletics</item>
+        <item>baseball</item>
+        <item>basketball</item>
+
+<!--        <item>bowling</item>-->
+        <item>chess</item>
+        <item>diving</item>
+        <item>gliding</item>
+        <item>football</item>
+
+        <item>equestrian</item>
+        <item>judo</item>
+        <item>hurdles</item>
+        <item>fencing</item>
+        <item>marathon</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Birds">
+
+        <item>duck</item>
+        <item>parrot</item>
+        <item>rooster</item>
+        <item>pigeon</item>
+        <item>sparrow</item>
+
+        <item>peacock</item>
+        <item>hawk</item>
+        <item>flamingo</item>
+        <item>ostrich</item>
+        <item>turkey</item>
+
+        <item>magpie</item>
+        <item>seagull</item>
+        <item>partridge</item>
+        <item>eagle</item>
+        <item>crow</item>
+
+        <item>swallow</item>
+        <item>myna</item>
+        <item>robin</item>
+        <item>wagtail</item>
+        <item>stork</item>
+
+        <item>kingfisher</item>
+        <item>goldfinch</item>
+        <item>goose</item>
+        <item>penguin</item>
+        <item>swan</item>
+
+        <item>starling</item>
+        <item>crane</item>
+        <item>toucan</item>
+        <item>canary</item>
+        <item>pelican</item>
+
+        <item>jay</item>
+        <item>woodpecker</item>
+        <item>macaw</item>
+        <item>pheasant</item>
+        <item>kestrel</item>
+
+        <item>goldfinch</item>
+        <item>falcon</item>
+        <item>cuckoo</item>
+        <item>lark</item>
+        <item>bat</item>
+
+    </string-array>
+</resources>

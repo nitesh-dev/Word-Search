@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Accessories">
+
+        <item>bag</item>
+        <item>belt</item>
+        <item>helmet</item>
+        <item>shoe</item>
+        <item>socks</item>
+
+        <item>ring</item>
+        <item>gloves</item>
+        <item>cover</item>
+        <item>spoon</item>
+        <item>hairpin</item>
+
+        <item>wallet</item>
+        <item>lamp</item>
+        <item>sweatband</item>
+        <item>towel</item>
+        <item>perfume</item>
+
+        <item>calendar</item>
+        <item>washer</item>
+        <item>generator</item>
+        <item>watch</item>
+        <item>tie</item>
+
+        <item>carpet</item>
+        <item>cloth</item>
+        <item>lighter</item>
+        <item>bottle</item>
+        <item>toothpick</item>
+
+        <item>sticker</item>
+        <item>label</item>
+        <item>pillow</item>
+        <item>jacket</item>
+        <item>umbrella</item>
+
+        <item>earmuff</item>
+        <item>scarf</item>
+        <item>key</item>
+        <item>comb</item>
+        <item>oil</item>
+
+        <item>torch</item>
+        <item>cap</item>
+        <item>shirt</item>
+        <item>compass</item>
+        <item>pen</item>
+
+    </string-array>
+</resources>

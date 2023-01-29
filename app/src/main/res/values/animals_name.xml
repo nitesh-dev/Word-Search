@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Animals">
+
+        <item>bull</item>
+        <item>snake</item>
+        <item>hound</item>
+        <item>elephant</item>
+        <item>civet</item>
+
+        <item>frog</item>
+        <item>dog</item>
+        <item>lizard</item>
+        <item>husky</item>
+        <item>tortoise</item>
+
+        <item>goat</item>
+        <item>bear</item>
+        <item>baboon</item>
+        <item>badger</item>
+        <item>pig</item>
+
+        <item>rabbit</item>
+        <item>sheep</item>
+        <item>horse</item>
+        <item>zebra</item>
+        <item>deer</item>
+
+        <item>cat</item>
+        <item>kitten</item>
+        <item>hamster</item>
+        <item>mouse</item>
+        <item>lion</item>
+
+        <item>tiger</item>
+        <item>leopard</item>
+        <item>hyaena</item>
+        <item>puppy</item>
+        <item>ox</item>
+
+        <item>buffalo</item>
+        <item>monkey</item>
+        <item>raccoon</item>
+        <item>koala</item>
+        <item>wolf</item>
+
+        <item>gorilla</item>
+        <item>kangaroo</item>
+        <item>camel</item>
+        <item>giraffe</item>
+        <item>panda</item>
+
+
+    </string-array>
+</resources>

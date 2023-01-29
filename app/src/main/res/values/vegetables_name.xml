@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Vegetables">
+
+        <item>mint</item>
+        <item>lettuce</item>
+        <item>cabbage</item>
+        <item>cauliflower</item>
+        <item>leek</item>
+
+        <item>broccoli</item>
+        <item>eggplant</item>
+        <item>beetroot</item>
+        <item>fennel</item>
+        <item>coriander</item>
+
+        <item>turnip</item>
+        <item>radish</item>
+        <item>garlic</item>
+        <item>spinach</item>
+        <item>zucchini</item>
+
+        <item>ginger</item>
+        <item>corn</item>
+        <item>pumpkin</item>
+        <item>okra</item>
+        <item>chilli</item>
+
+        <item>celery</item>
+        <item>tomato</item>
+        <item>moringa</item>
+        <item>onion</item>
+        <item>pea</item>
+
+        <item>potato</item>
+        <item>yam</item>
+        <item>parsnip</item>
+        <item>artichoke</item>
+        <item>mushroom</item>
+
+        <item>olive</item>
+        <item>lemon</item>
+        <item>asparagus</item>
+        <item>bok</item>
+        <item>kohlrabi</item>
+
+        <item>cucumber</item>
+        <item>capsicum</item>
+        <item>drumstick</item>
+        <item>carrot</item>
+        <item>brinjal</item>
+
+
+
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="app_background_color">#0C1F2B</color>
+    <color name="toggle_off">#560C1F2B</color>
+    <color name="toggle_on">#1E88E5</color>
+
+    <color name="show_hints_background_color">#FFCC80</color>
+    <color name="show_hints_inner_color">#FFFFFF</color>
+
+    <color name="dialog_title_color">#FF7043</color>
+    <color name="dialog_content_color_1">#1B3749</color>
+
+
+    <color name="word_search_text_color">#FFFFFF</color>
+    <color name="word_search_line_color_1">#EF5350</color>
+    <color name="word_search_line_color_2">#EC407A</color>
+    <color name="word_search_line_color_3">#AB47BC</color>
+    <color name="word_search_line_color_4">#7E57C2</color>
+    <color name="word_search_line_color_5">#42A5F5</color>
+    <color name="word_search_line_color_6">#26C6DA</color>
+    <color name="word_search_line_color_7">#26A69A</color>
+    <color name="word_search_line_color_8">#66BB6A</color>
+    <color name="word_search_line_color_9">#FFCA28</color>
+    <color name="word_search_line_color_10">#FF7043</color>
+
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+
+</resources>

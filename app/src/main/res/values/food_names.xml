@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Foods">
+
+        <item>dairy</item>
+        <item>dal</item>
+        <item>danishes</item>
+        <item>dates</item>
+        <item>dil</item>
+
+        <item>dosa</item>
+        <item>doubles</item>
+        <item>doughnuts</item>
+        <item>dumplings</item>
+        <item>durian</item>
+
+        <item>goose</item>
+        <item>gazpacho</item>
+        <item>granola</item>
+        <item>gravy</item>
+        <item>guacamole</item>
+
+        <item>gumbo</item>
+        <item>roll</item>
+        <item>kale</item>
+        <item>kasha</item>
+        <item>kelp</item>
+
+        <item>kimchi</item>
+        <item>kohlrabi</item>
+        <item>kuchen</item>
+        <item>kugel</item>
+        <item>kumquat</item>
+
+        <item>raisin</item>
+        <item>ramen</item>
+        <item>ravioli</item>
+        <item>relish</item>
+        <item>rhubarb</item>
+
+        <item>rice</item>
+        <item>rigatoni</item>
+        <item>egg</item>
+        <item>ham</item>
+        <item>milk</item>
+
+        <item>cheese</item>
+        <item>butter</item>
+        <item>yogurt</item>
+        <item>sandwich</item>
+        <item>sausage</item>
+
+        <item>hamburger</item>
+        <item>bread</item>
+        <item>pizza</item>
+        <item>steak</item>
+        <item>seafood</item>
+
+        <item>kebab</item>
+        <item>bacon</item>
+        <item>salad</item>
+        <item>shrimp</item>
+        <item>porridge</item>
+
+
+    </string-array>
+</resources>

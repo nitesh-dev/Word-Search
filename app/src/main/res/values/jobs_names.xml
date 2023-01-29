@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Jobs">
+
+        <item>actor</item>
+        <item>actress</item>
+        <item>architect</item>
+        <item>artist</item>
+        <item>attorney</item>
+
+        <item>banker</item>
+        <item>barber</item>
+        <item>builder</item>
+        <item>carpenter</item>
+        <item>cashier</item>
+
+        <item>chef</item>
+        <item>coach</item>
+        <item>dentist</item>
+        <item>designer</item>
+        <item>developer</item>
+
+        <item>doctor</item>
+        <item>economist</item>
+        <item>dietician</item>
+        <item>editor</item>
+        <item>electrician</item>
+
+        <item>engineer</item>
+        <item>farmer</item>
+        <item>filmmaker</item>
+        <item>fisherman</item>
+        <item>jeweler</item>
+
+        <item>judge</item>
+        <item>lawyer</item>
+        <item>mechanic</item>
+        <item>musician</item>
+        <item>nurse</item>
+
+        <item>optician</item>
+        <item>painter</item>
+        <item>physician</item>
+        <item>pilot</item>
+        <item>plumber</item>
+
+        <item>police</item>
+        <item>politician</item>
+        <item>professor</item>
+        <item>programmer</item>
+        <item>secretary</item>
+
+        <item>singer</item>
+        <item>surgeon</item>
+        <item>teacher</item>
+        <item>waiter</item>
+        <item>writer</item>
+
+
+    </string-array>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Trees">
+
+        <item>birch</item>
+        <item>poplar</item>
+        <item>elm</item>
+        <item>chestnut</item>
+        <item>pine</item>
+
+        <item>spruce</item>
+        <item>willow</item>
+        <item>palm</item>
+        <item>maple</item>
+        <item>cedar</item>
+
+        <item>oak</item>
+        <item>linden</item>
+        <item>apple</item>
+        <item>apricot</item>
+        <item>cherry</item>
+
+        <item>olive</item>
+        <item>pear</item>
+        <item>fir</item>
+        <item>juniper</item>
+        <item>yew</item>
+
+        <item>walnut</item>
+        <item>tulip</item>
+        <item>teak</item>
+        <item>tamarind</item>
+        <item>strawberry</item>
+
+        <item>spruce</item>
+        <item>sandalwood</item>
+        <item>sal</item>
+        <item>rubber</item>
+        <item>redwood</item>
+
+        <item>dogwood</item>
+        <item>orange</item>
+        <item>nutmeg</item>
+        <item>mangrove</item>
+        <item>magnolia</item>
+
+        <item>dove</item>
+        <item>kiwi</item>
+        <item>jack</item>
+        <item>hibiscus</item>
+        <item>ebony</item>
+
+    </string-array>
+</resources>

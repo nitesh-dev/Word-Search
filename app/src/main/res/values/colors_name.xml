@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Colors">
+
+        <item>chocolate</item>
+        <item>aqua</item>
+        <item>azure</item>
+        <item>beige</item>
+        <item>bisque</item>
+
+        <item>black</item>
+        <item>blue</item>
+        <item>coral</item>
+        <item>brown</item>
+        <item>cornsilk</item>
+
+        <item>crimson</item>
+        <item>cyan</item>
+        <item>firebrick</item>
+        <item>fuchsia</item>
+        <item>gainsboro</item>
+
+        <item>gold</item>
+        <item>gray</item>
+        <item>green</item>
+        <item>honeydew</item>
+        <item>hotpink</item>
+
+        <item>indigo</item>
+        <item>ivory</item>
+        <item>khaki</item>
+        <item>lavender</item>
+        <item>lime</item>
+
+        <item>linen</item>
+        <item>magenta</item>
+        <item>maroon</item>
+        <item>moccasin</item>
+        <item>navy</item>
+
+        <item>oldlace</item>
+        <item>olive</item>
+        <item>orange</item>
+        <item>orchid</item>
+        <item>peru</item>
+
+        <item>pink</item>
+        <item>plum</item>
+        <item>purple</item>
+        <item>red</item>
+        <item>salmon</item>
+
+        <item>seashell</item>
+        <item>sienna</item>
+        <item>silver</item>
+        <item>snow</item>
+        <item>tan</item>
+
+        <item>teal</item>
+        <item>thistle</item>
+        <item>tomato</item>
+        <item>wheat</item>
+        <item>yellow</item>
+
+        <item>violet</item>
+
+
+
+    </string-array>
+</resources>
